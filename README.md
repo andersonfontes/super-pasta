@@ -21,6 +21,9 @@ Dentro do colchete, vai o texto que aprece na pagina. Dentro do parentesis, vai 
 [CLIQUE AQUI PARA SE DIVERTIR](https://www.disney.com)
 
 
+# Exemplo inserindo imagem com link
+[![imagem qualquer](https://www.digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fintro-to-cloud.d49bc5f7.jpeg&width=1920 "a title")](https://www.disney.com)
+
 
 
 
